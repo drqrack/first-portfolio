@@ -78,21 +78,21 @@ let allWorks = []; // This will store all project data, including those not init
 // Example: More project data (you would load this from an API or a larger dataset)
 const moreProjects = [
   {
-    imgSrc: 'https://via.placeholder.com/450/FF5733/FFFFFF?text=Project+4',
+    imgSrc: 'assets/images/project-1.jpg',
     title: 'E-commerce Site',
     description: 'Developed a fully functional e-commerce platform.',
     link: '#',
   },
   {
-    imgSrc: 'https://via.placeholder.com/450/33FF57/FFFFFF?text=Project+5',
+    imgSrc: 'assets/images/project-2.png',
     title: 'Blog Platform',
     description: 'A personal blogging platform with admin features.',
     link: '#',
   },
   {
-    imgSrc: 'https://via.placeholder.com/450/3357FF/FFFFFF?text=Project+6',
-    title: 'Task Management App',
-    description: 'An intuitive app to manage daily tasks efficiently.',
+    imgSrc: 'assets/images/project-3.jpg',
+    title: 'Housing Site',
+    description: 'An intuitive app to get a lovely home.',
     link: '#',
   },
 ];
